@@ -1,0 +1,20 @@
+painting of three walls,2020-05-08,2020-01-08,520.50,TRUE,PENDING
+apartment insulation,2020-04-08,2020-06-15,3250.00,FALSE,DECLINED
+replacement of two malfunctioning fuses,2020-02-04,2020-06-15,35.00,TRUE,COMPLETE,2022-03-07,2022-04-02
+installation of a solar water heater,2022-02-07,2022-05-02,780.50,TRUE,IN_PROGRESS,2022/03/06,2022-07-08
+replacement of five mid-size frames ,2022-02-08,2022-07-02,3150.00,TRUE,COMPLETE,2022-07-02,2022-03-05
+replacement of two non functioning plugs,2022-01-11,2022-02-11, 40.00,FALSE	,DECLINED,2020-06-15,2022-02-11
+installation of two bathroom faucets,2022-06-09,2022-10-11,95.00 ,TRUE,IN_PROGRESS,2022-09-11,2022-02-11
+painting of five walls,2022-07-09,2022-10-03,1100.00,TRUE,PENDING,2022-07-08,2020-05-08
+insulation of a full - size roof,2022-01-08,2022-02-10,	4320.00,TRUE,PENDING,2022-09-11,2022-07-09
+installation of 5 full - size frames,2022-11-02,2022-11-09,6450.00,FALSE,DECLINED,2022-03-05,2022-04-02
+replacement of three non functioning faucets,2022-02-10,2022-02-11,	42.00,TRUE,COMPLETE,2022-06-08, 2022-07-08
+installation of a solar water heater,2022-03-11,2022-04-02,780.00,FALSE,DECLINED,2022-03-05,2020-06-15
+replacement of five mid-size frames ,2022-01-08,2022-05-08,3500.00,TRUE,COMPLETE,2022-01-12,2022-02-08
+replacement of two non functioning plugs,2022-01-12,2022-11-08,42.00,FALSE,DECLINED,2022-11-02,2020-06-15
+installation of two bathroom faucets,2022-09-08,2022-09-12,90.50,TRUE,IN_PROGRESS,2022-05-08,2022-03-05
+insulation of a full - size roof,2022-01-08,2022-01-09,4320.00,FALSE,DECLINED,2022-01-12,2020-06-15
+installation of 5 full - size frames,2022-06-08,2022-07-05,6550.00,TRUE,PENDING,2022-07-05,2022-01-09
+replacement of three non functioning faucets,2022-02-08,2022-04-10,45.00,FALSE,DECLINED,2022-05-08,2022-07-08
+installation of a solar water heater,2022-05-08,2022-01-08,680.00,TRUE,COMPLETE,2022-05-08,2022-01-08
+apartment insulation,2022-07-08,2022-01-11,4150.00	,TRUE,IN_PROGRESS,2022-02-08,2022-09-09
